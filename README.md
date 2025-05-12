@@ -2,7 +2,7 @@
 Colorfiles for [grcpp](https://github.com/RENoMafex/grcpp).
 
 >[!NOTE]
-> This README is **NOT** towards end users, but developers who want to contribute to [grcpp](https://github.com/RENoMafex/grcpp).
+> This README is **NOT** towards end users, but developers who want to contribute to [grcpp](https://github.com/RENoMafex/grcpp).</br>
 > In fact this whole repository is not for end users.
 
 ## Contributing is *very* **EASY**!

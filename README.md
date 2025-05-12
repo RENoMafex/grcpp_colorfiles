@@ -10,3 +10,5 @@ If you want to add a colorfile for a program, that is not existing yet, just con
 
 If you want to change an already existing file, that change should serve any purpose (maybe it makes the regexes more precise or adds functionality). If your pull request only changes colors based off some personal preference, that pull request will most likely not be merged.
 
+## License disclaimer
+Most of these colorfiles are just copied from [grc](https://github.com/garabik/grc), which is licensed under the GNU GPLv2 or later. I decided to put this repo under the *unlicense* anyway, because all files inside this repo mostly consist of regexes, which are not that complex (for regexes), so i don't think, that the contents of this repo are even complex/unique enough to put under any license, that is restrictive in any way.

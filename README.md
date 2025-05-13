@@ -1,8 +1,8 @@
 # grcpp colorfiles
-Colorfiles for [grcpp](grcpp).
+Colorfiles for [grcpp].
 
 >[!NOTE]
-> This README is **NOT** towards end users, but developers who want to contribute to [grcpp](grcpp).</br>
+> This README is **NOT** towards end users, but developers who want to contribute to [grcpp].</br>
 > In fact this whole repository is not for end users.
 
 ## Contributing is *very* **EASY**!
@@ -10,7 +10,7 @@ If you want to add a colorfile for a program, that is not existing yet, just con
 
 If you want to change an already existing file, that change should serve any purpose (maybe it makes the regexes more precise or adds functionality). If your pull request only changes colors based off some personal preference, that pull request will most likely not be merged.
 
-## How [grcpp](grcpp) uses this repo
+## How [grcpp] uses this repo
 **Grcpp** uses this repo as a submodule and pulls it through a GitHub Action once per day.
 
 ## License disclaimer
